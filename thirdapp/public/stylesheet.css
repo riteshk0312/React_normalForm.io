@@ -1,0 +1,17 @@
+.mydiv{
+    float:right;
+    height:100%;
+    width:50%;
+    background-color: aqua;
+}
+.thediv{
+    float:left;
+    height:100%;
+    width:50%;
+    background-color:greenyellow;
+}
+.isdiv{
+
+    color:blue;
+    
+}
